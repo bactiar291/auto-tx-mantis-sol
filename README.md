@@ -3,9 +3,8 @@ auto send ke random wallet mantis rollup
 # Solana Transaction Sender
 
 # jika kalian mendapati seperti gambar dibawah itu berarti sudah berhasil biarkan berjalan sambil pantau wallet backpack / night
-![1](https://raw.githubusercontent.com/bactiar291/auto-tx-mantis-sol/main/ss1.png)
 ![2](https://raw.githubusercontent.com/bactiar291/auto-tx-mantis-sol/main/ss2.png)
-
+![1](https://raw.githubusercontent.com/bactiar291/auto-tx-mantis-sol/main/ss1.png)
 
 Proyek ini bertujuan untuk mengirim transaksi di jaringan Solana menggunakan kunci rahasia yang disimpan dalam file JSON. Skrip ini menggunakan pustaka `@solana/web3.js` untuk berinteraksi dengan blockchain Solana.
 
