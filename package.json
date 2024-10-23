@@ -1,16 +1,14 @@
 {
-  "name": "solana-base58-to-array",
-  "version": "1.0.0",
-  "description": "Konversi kunci pribadi Solana dari Base58 ke array dan sebaliknya.",
-  "main": "script.js",
-  "scripts": {
-    "start": "node script.js"
-  },
-  "dependencies": {
-    "@solana/web3.js": "^1.50.0", 
-    "dotenv": "^16.0.0",            
-    "bs58": "^5.0.3"                  
-  },
-  "author": "Bactiar 291",
-  "license": "MIT"
+    "name": "solana-transaction-sender",
+    "version": "1.0.0",
+    "description": "A project to send transactions on the Solana network using a secret key from a JSON file.",
+    "main": "script.js",
+    "scripts": {
+        "start": "node script.js"
+    },
+    "dependencies": {
+        "@solana/web3.js": "^1.31.0"  
+    },
+    "author": "BACTIAR291",
+    "license": "ISC"
 }
