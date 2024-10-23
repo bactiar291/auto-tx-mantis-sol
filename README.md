@@ -42,7 +42,7 @@ Buat file secretKey.json di direktori root dengan konten berikut :
 Untuk menjalankan skrip dan mulai mengirim transaksi, gunakan perintah berikut:
 
  ```bash
-npm start          
+node index.js          
  ```
 
           thank to bactiar291
